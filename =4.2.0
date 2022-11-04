@@ -1,0 +1,13 @@
+Using version ^5.7.0 for nbformat
+
+Updating dependencies
+Resolving dependencies...
+
+Writing lock file
+
+Package operations: 4 installs, 0 updates, 0 removals
+
+  • Installing pyrsistent (0.19.2)
+  • Installing fastjsonschema (2.16.2)
+  • Installing jsonschema (4.17.0)
+  • Installing nbformat (5.7.0)
